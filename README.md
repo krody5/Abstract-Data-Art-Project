@@ -28,6 +28,8 @@ Dataset: https://tuvalabs.com/datasets/roller_coasters_around_the_world/activiti
 - **Region** (String) - region roller coaster is located in 
 - **Speed** (int) - how fast the roller coast goes 
 - **Length** (int) - length of the roller coaster
+- **City** (String)- city roller coaster is located in
+- **Year** (Int)- year the roller coaster was open
 ## UML Diagram
 
 Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get display on this README.
@@ -50,4 +52,4 @@ Record a short video of your abstract art animation to display here on your READ
 
 Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project.
 
-We chose a roller coaster data set for our project in order to inform the audience of the length, country, speed, region, city, and year of the roller coaster displayed in the theater. We used static variables and instance methods in order to display the results.  We also included a for loop, a math.random statement, and an if-else statement. 
+We chose a roller coaster data set for our project in order to inform the audience of the length, country, speed, region, city, and year of the roller coaster displayed in the theater. We used static variables and instance methods in order to display the results. We also included a for loop, a math.random statement, and an if-else statement. The use of a multi selection statement was applied in order to display different roller coaster images, which also resulted in the use of short-circut evaluation.
