@@ -20,8 +20,6 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 
 Include a hyperlink to the source of your dataset used for this project. Additionally, provide a short description of each column used from the dataset, and the data type.
 
-Example:
-
 Dataset: https://tuvalabs.com/datasets/roller_coasters_around_the_world/activities/
 
 - **Country** (String) - country roller coaster is located in 
